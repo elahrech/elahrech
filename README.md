@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @elahrech
-- 👀 I’m interested in Cloud Architecture and Data Engineering
-- 🌱 I’m currently learning Cloud, Big Data and Data Science
-- 💞️ I’m looking to collaborate on challenging projects
